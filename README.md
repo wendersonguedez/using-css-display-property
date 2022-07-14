@@ -1,12 +1,10 @@
-# Exercicio Display
-
-## Resultado Esperado
+# Tela final
 
 <img src="img/1.png">
 
 <br>
 
-# Especificações (cores e fontes)
+## Cores e fontes utilizadas
 
 -   Amarelo 1: (preço/botão): #febe01
 -   Amarelo 2: (color botão): #332200
