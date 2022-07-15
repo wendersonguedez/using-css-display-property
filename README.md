@@ -1,4 +1,4 @@
-# Tela final
+# Resultado final
 
 <img src="img/1.png">
 
